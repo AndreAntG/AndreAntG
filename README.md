@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAntG&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
- ![Linkedin Badge](https://img.shields.io/badge/-Andre-3370cc?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreantg/)
+ ![Linkedin Badge](https://img.shields.io/badge/-andreantg-3370cc?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreantg/)
 
   
 <div style="display: inline_block"><br>
