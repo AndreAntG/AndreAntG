@@ -1,6 +1,5 @@
 ## André Gonçalves 
 
-![Linkedin Badge](https://img.shields.io/badge/-Andre-3370cc?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreantg/)
 
 <div>
   <a href="https://github.com/AndreAntG/">
@@ -8,6 +7,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAntG&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+ ![Linkedin Badge](https://img.shields.io/badge/-Andre-3370cc?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreantg/)
+
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Jon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Jon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
