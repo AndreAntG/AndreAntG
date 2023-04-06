@@ -1,6 +1,6 @@
 ## André Gonçalves 
 
-![Linkedin Badge](https://img.shields.io/badge/-cicerogalter-3370cc?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreantg/)
+![Linkedin Badge](https://img.shields.io/badge/-Andre-3370cc?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreantg/)
 
 
 - 💼  I work at [OnePulse](https://www.onepulse.com/)
